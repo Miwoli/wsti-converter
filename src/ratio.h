@@ -12,7 +12,6 @@ class Ratio {
     double foot = 3.2808399;
     double inch = 39.3700787;
     double mile = 0.000621371192;
-    double lorem = 123;
     std::vector<std::pair<std::string, double>> results;
 
     public:

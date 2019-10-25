@@ -9,7 +9,6 @@ void Ratio::calculate() {
     results.emplace_back(std::make_pair("inch", meter * inch));
     results.emplace_back(std::make_pair("mile", meter * mile));
     results.emplace_back(std::make_pair("foot", meter * foot));
-    results.emplace_back(std::make_pair("lorem", meter * lorem));
 }
 
 void Ratio::display() {
