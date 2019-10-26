@@ -1,5 +1,5 @@
-#ifndef RATIO_H
-#define RATIO_H
+#ifndef RATIO_HPP
+#define RATIO_HPP
 
 #include <iostream>
 #include <utility>
