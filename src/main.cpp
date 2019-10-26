@@ -2,7 +2,7 @@
 #include <utility>
 #include <string> 
 #include <limits>
-#include "ratio.h"
+#include "ratio.hpp"
 
 int main(int argc, char** argv) {
 

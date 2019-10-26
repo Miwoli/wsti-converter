@@ -2,7 +2,7 @@
 #include <utility>
 #include <string>
 #include <iomanip>
-#include "ratio.h"
+#include "ratio.hpp"
 
 void Ratio::calculate() {
     results.emplace_back(std::make_pair("yard", meter * yard));
